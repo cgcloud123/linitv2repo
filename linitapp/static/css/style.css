@@ -2243,6 +2243,22 @@ html{
     .sativali_div{
         padding: 1rem;
     }
+    .new h2{
+        font-size: 30px;
+    }
+    .card{
+        position: relative;
+        left:-190px;
+        top:60px;
+    }
+    #map{
+        position: relative;
+        top: 50px;
+        height: 660px;
+    }
+    #plant_head{
+        font-size:30px;
+    }
    
 }
 
