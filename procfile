@@ -1,0 +1,1 @@
+web: gunicorn linitproj.wsgi --log-file -
